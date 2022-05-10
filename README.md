@@ -1,4 +1,4 @@
-<div align='center'><h1>JOSÉ DAVID BOLÍVAR MAYORA :pray:</h1></div>
+<div align='center'><h1>JOSÉ DAVID BOLÍVAR MAYORA 💻</h1></div>
 <div align="center">
 <a href="https://twitter.com/Keshavsingh4522" target="_blank" rel="nofollow"><img align="right" alt="Keshav's Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" /></a><a href="https://www.linkedin.com/in/keshavsingh4522" target="_blank" rel="nofollow"><img align="right" alt="Keshav's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a><a href="https://www.instagram.com/josedbolivarm/" target="_blank" rel="nofollow"><img align="right" alt="José David Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
 </div>
@@ -16,8 +16,4 @@
 <br />
 <br />
 
-<!-- start dynamic spotify spngs API -->
 ### i really like music :headphones:
-
-[![Profile views](http://hits.dwyl.com/keshavsingh4522/keshavsingh4522.svg)](http://hits.dwyl.com/keshavsingh4522/keshavsingh4522) 
--->
