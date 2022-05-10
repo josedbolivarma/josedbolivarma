@@ -7,14 +7,11 @@
 
 ### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/keshavsingh4522)
 - :school: I'm [José David](https://josedbolivarma.github.io/), I have certification by the geek academy programming academy from Colombia <a href="https://academiageek.co/">@Academia Geek  </a>
-- 🔭 I am currently working on my skills as a **Backend Development**
-
+- 🔭 I am currently working on my skills as a **Full Stack Development - Stack MERN**
 - ✌ I’m working on my english language skills and my knowledge in software architecture ♛
 - 💬 Ask me about anything, I am happy to help
-- 📷 Know more about me at [Sourcerer](https://www.instagram.com/josedbolivarm/) 
+- 📷 Know more about me at [Instagram](https://www.instagram.com/josedbolivarm/) 
 - 🌐 Visit my [porfolio website](https://josedbolivarma.github.io/) for complete background and contact.
-- :boom: awesome octoprofile : [Keshav Singh](https://octoprofile.now.sh/user?id=keshavsingh4522)
-<!-- - ⚡ Languages: **Python3 | SQL | HTML | CSS |** -->
 
 <br />
 <br />
