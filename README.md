@@ -18,7 +18,7 @@
 
 
 ### Github Stats ⭐
-[![Dani El-Ayyass' github stats](https://github-readme-stats.vercel.app/api?username=dayyass&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![José David Bolívar Mayora github stats](https://github-readme-stats.vercel.app/api?username=dayyass&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### I really like music :headphones:
