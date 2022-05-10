@@ -1,4 +1,4 @@
-# [![Jose Bolívar Header](https://www.10wallpaper.com/wallpaper/1366x768/1112/ubuntu_blue-linux_system_desktop_background_wallpaper_1366x768.jpg)](https://josedbolivarma.github.io/)
+# [![Jose Bolívar Header](https://preview.redd.it/7266x08xkln31.png?auto=webp&s=109cfd96208344c6fc4b79941eba3ad904e090f8)](https://josedbolivarma.github.io/)
 
 <div align='center'><h1>JOSÉ DAVID BOLÍVAR MAYORA 💻</h1></div>
 <div align="center">
