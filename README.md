@@ -19,8 +19,7 @@
 <br />
 
 
-### Github Stats ⭐
+<!-- ### Github Stats ⭐ -->
 <!-- [![José David Bolívar Mayora github stats](https://github-readme-stats.vercel.app/api?username=dayyass&show_icons=true&theme=tokyonight)](https://github.com/josedbolivarma/) -->
-
 
 ### I really like music :headphones:
