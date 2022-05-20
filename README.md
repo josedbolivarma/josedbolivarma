@@ -6,6 +6,8 @@
 </div>
 
 <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
+<img src='https://media0.giphy.com/media/SqeaJvuHTby1fW2wdL/giphy.gif?cid=6c09b952bb8b8bb9022b70ad39164d3005d815c18f52cda5&rid=giphy.gif&ct=s' align='left'>
+
 
 ### Hi  👋 (https://josedbolivarma.github.io/)
 - :school: I'm [José David](https://josedbolivarma.github.io/), I have certification by the geek academy programming academy from Colombia <a href="https://academiageek.co/">@Academia Geek  </a>
